@@ -4,5 +4,9 @@ Day1 of coding is completed.
 this is Day2 of coding bottcamp;
 
 
-
 end of document.
+
+
+
+Document formated in better style;
+End of document;
